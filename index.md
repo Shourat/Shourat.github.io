@@ -1,1 +1,4 @@
-
+What software engineering means to me:
+Software engineering to me means a way for computer scientists and developers to have a chance to create something for others
+that involves a bit of creativity as well as some logical thinking. It involves a lot of problem solving and to me 
+that seems to be something that will fun but challenging to do at the same time. 
