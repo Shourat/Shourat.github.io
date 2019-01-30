@@ -7,3 +7,5 @@ Why are you taking software engineering and what do you hope to take out of the 
 I'm taking this class because I'm a computer science major, but I'm also interested 
 in software and want to become a better programmer. 
 I hope this class will help me with any weaknesses that I have when it comes to coding. 
+
+After reading the first chapter from the book A Pragmatic Programmer, it was interesting to see how the author gives you tips and techniques in which you can be a better programmer, such as taking resposibility, or showing how to be better at coding by trying not to repeat code you've already written. Another thing that I thought was interesting was the paragraph about software entromy; when disorder increases in software and programmers call it "software rot". I'd had never heard about this. Overall, I think this chapter is a good introduction to this course because it starts by advising what to do and what not to do when you start to program.
